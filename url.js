@@ -1,25 +1,26 @@
 // urls.js
+const site_url = 'example.com';
 export const urls = [
-    'https://siteurl.com/',
-    'https://siteurl.com/discover/',
-    'https://siteurl.com/compare/',
-    'https://siteurl.com/plugin-search/',
-    'https://siteurl.com/blog/',
-    'https://siteurl.com/promote/',
-    'https://siteurl.com/wordpress-coupons-deals-offers/',
+    'https://'+site_url+'/',
+    'https://'+site_url+'/discover/',
+    'https://'+site_url+'/compare/',
+    'https://'+site_url+'/plugin-search/',
+    'https://'+site_url+'/blog/',
+    'https://'+site_url+'/promote/',
+    'https://'+site_url+'/wordpress-coupons-deals-offers/',
     // Add more URLs as needed
-    'https://siteurl.com/account/',
-    'https://siteurl.com/get-started/',
+    'https://'+site_url+'/account/',
+    'https://'+site_url+'/get-started/',
 
     // blog urls 
-    'https://siteurl.com/wordpress/',
-    'https://siteurl.com/tutorials/',
-    'https://siteurl.com/reviews/themes/',
-    'https://siteurl.com/reviews/themes/seo-friendly-themes/',
-    'https://siteurl.com/seo/',
-    'https://siteurl.com/reviews/',
-    'https://siteurl.com/reviews/themes/restaurant-themes/',
-    'https://siteurl.com/reviews/themes/real-estate-themes/',
+    'https://'+site_url+'/wordpress/',
+    'https://'+site_url+'/tutorials/',
+    'https://'+site_url+'/reviews/themes/',
+    'https://'+site_url+'/reviews/themes/seo-friendly-themes/',
+    'https://'+site_url+'/seo/',
+    'https://'+site_url+'/reviews/',
+    'https://'+site_url+'/reviews/themes/restaurant-themes/',
+    'https://'+site_url+'/reviews/themes/real-estate-themes/',
 
   ];
 
