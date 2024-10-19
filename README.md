@@ -1,1 +1,1 @@
-k6 run scriptname.js
+k6 run script.js
